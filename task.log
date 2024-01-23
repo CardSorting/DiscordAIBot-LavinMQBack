@@ -1,0 +1,6 @@
+{"level":30,"time":1702351277592,"pid":9059,"hostname":"0191edd832bc","msg":"Connecting to LavinMQ at amqps://xvinkscr:z_P-EccdZpppc4UcSiz4x5bRzlct5cFv@possum.lmq.cloudamqp.com/xvinkscr"}
+{"level":30,"time":1702351277974,"pid":9059,"hostname":"0191edd832bc","msg":"LavinMQWorkerQueueHandler initialized successfully."}
+{"level":50,"time":1702351289071,"pid":9059,"hostname":"0191edd832bc","msg":"Error processing message: Received an empty string as response from the model."}
+{"level":30,"time":1702351296617,"pid":9059,"hostname":"0191edd832bc","msg":"Received SIGTERM. Shutting down gracefully."}
+{"level":30,"time":1702351296617,"pid":9059,"hostname":"0191edd832bc","msg":"Initiating graceful shutdown..."}
+{"level":40,"time":1702351296649,"pid":9059,"hostname":"0191edd832bc","msg":"LavinMQ channel closed."}
